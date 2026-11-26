@@ -6,7 +6,7 @@ beserta alasan untuk mata kuliah yang belum bisa diambil.
 ## Anggota Kelompok
 | No | Nama                      | NIM             |
 |----|---------------------------|-----------------|
-| 1  |  Senja Cahyo Tirta        | 255150200111016 |
+| 1  |  Senja Cahya Tirta        | 255150200111016 |
 | 2  |  Naufal Mohammad Adhi     | 255150207111018 |
 | 3  |  Phaksi Giring Pamungkas  | 255150207111034 |
 
